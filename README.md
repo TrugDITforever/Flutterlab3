@@ -29,6 +29,10 @@ Users can tap to read full articles in a browser.
 ## 🖼️ Demo Video
 🎥
 
+
+https://github.com/user-attachments/assets/e3a50d7e-5ec1-47df-b38c-d8a40170c392
+
+
 ## ▶️ Run
 ```bash
 flutter run -d chrome
